@@ -52,3 +52,9 @@ a{
     text-decoration: none;
     color:white;
 }
+.cof:hover{
+    transform: scale(1.1);
+}
+.break:hover{
+    transform: scale(1.1);
+}
